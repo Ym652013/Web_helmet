@@ -6,7 +6,7 @@ session_start();
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>WEB_HELMET</title>
+    <title>Chính sách</title>
     <link rel="stylesheet" href="../css/style.css">
     <script src="https://kit.fontawesome.com/3192225934.js" crossorigin="anonymous"></script>
 </head>
